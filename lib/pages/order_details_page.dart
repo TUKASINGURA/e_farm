@@ -93,7 +93,7 @@ class OrderDetailsPage extends StatelessWidget {
                       Expanded(
                         child: Text(
                           //"6844 Hall Spring Suite 134\n East Annabury, OK 42291",
-                          " Ministers Villages,Ntinda_Nakawa Divion\n Kaggwa Rise Road, plot 24",
+                          " Ministers Villages,Ntinda_Nakawa Division\n Kaggwa Rise Road, plot 24",
                         ),
                       ),
                     ],
@@ -105,7 +105,7 @@ class OrderDetailsPage extends StatelessWidget {
                       SizedBox(width: 5),
                       Expanded(
                         child: Text(
-                          "233 5447 51048",
+                          "256 784 575724",
                         ),
                       ),
                     ],
