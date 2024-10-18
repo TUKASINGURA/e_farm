@@ -1,4 +1,4 @@
-import 'package:e_farm_system/pages/onboarding_page.dart';
+import 'package:e_farm_system/Login_SignUp/screens/signin_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
@@ -18,7 +18,8 @@ class MainApp extends StatelessWidget {
         useMaterial3: true,
         textTheme: GoogleFonts.nunitoTextTheme(),
       ),
-      home: const OnboardingPage(),
+      // home: const OnboardingPage(),
+      home: const SignInScreen(),
     );
   }
 }
